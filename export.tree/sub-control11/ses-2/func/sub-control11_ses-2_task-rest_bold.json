@@ -1,0 +1,22 @@
+{
+	"TaskName": "rest",
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "Prisma_fit",
+	"ProcedureStepDescription": "Investigators_20_ch_FGH3",
+	"ScanningSequence": "EP",
+	"SequenceVariant": "SK",
+	"SeriesDescription": "rest_1",
+	"BodyPartExamined": "BRAIN",
+	"ProtocolName": "rest_1",
+	"SequenceName": "_epfid2d1_80",
+	"ImageType": ["ORIGINAL", "PRIMARY", "M", "ND", "NORM", "MOSAIC"],
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 90,
+	"EchoTime": 0.03,
+	"RepetitionTime": 2,
+	"EffectiveEchoSpacing": 0.000290003,
+	"PhaseEncodingDirection": "j-",
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170314",
+	"CogAtlasID":"http://www.cognitiveatlas.org/task/id/trm_4c8a834779883"
+}
