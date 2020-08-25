@@ -1,0 +1,17 @@
+{
+	"TaskName": "rest",
+	"Manufacturer": "Philips",
+	"ManufacturersModelName": "Achieva",
+	"ProcedureStepDescription": "none",
+	"ScanningSequence": "EP",
+	"SequenceVariant": "SK",
+	"SeriesDescription": "NO_STIMULATION SENSE",
+	"ProtocolName": "NO_STIMULATION SENSE",
+	"SequenceName": "NO_STIMULATION SENSE",
+	"ImageType": ["IMAGE", "M series"],
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 90,
+	"EchoTime": 0.034, 
+	"RepetitionTime": 2,
+	"CogAtlasID":"http://www.cognitiveatlas.org/task/id/trm_4c8a834779883"
+}
